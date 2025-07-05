@@ -1,1 +1,1 @@
-Create Geek Table developed with Python and SQLite
+Create Geek Table developed with Python and SQLite3
